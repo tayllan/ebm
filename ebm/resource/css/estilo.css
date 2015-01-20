@@ -1,0 +1,18 @@
+.ui.segment {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+@media print {
+    header {
+        display: none;
+    }
+    
+    div.ui.center.aligned.segment {
+        display: none;
+    }
+    
+    footer {
+        display: none;
+    }
+}
