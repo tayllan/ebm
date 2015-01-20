@@ -11,11 +11,12 @@ Unfortunately everything inside the source code is written in Portuguese (since 
 * Model-View-Controller architectural pattern.
 * MySQL Relational Database Management System.
 * The Brazilian Post Office API for automatic address registration and shipping prices calculation (which is't online anymore...).
-### Libraries
-* [OpenBoleto](http://kriansa.github.io/openboleto/) - Used to generate billet banking.
-* [DynaTable](http://www.dynatable.com/) - To create pretty product tables.
-* [Semantic UI](http://semantic-ui.com/) - The CSS and Validations framework.
-* [JQuery](http://jquery.com/) - Used by Semantic UI.
+
+- Libraries
+  - [OpenBoleto](http://kriansa.github.io/openboleto/) - Used to generate billet banking.
+  - [DynaTable](http://www.dynatable.com/) - To create pretty product tables.
+  - [Semantic UI](http://semantic-ui.com/) - The CSS and Validations framework.
+  - [JQuery](http://jquery.com/) - Used by Semantic UI.
 
 ![EBM - Home](ebm-images/ebm-home.png "Home page")
 
